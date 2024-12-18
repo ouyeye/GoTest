@@ -9,7 +9,7 @@ package main
 import (
 	"fmt"
 
-	"example.com/test/src/basic"
+	"example.com/test/basic"
 )
 
 func main() {
